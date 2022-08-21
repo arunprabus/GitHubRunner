@@ -1,2 +1,2 @@
 # GitHubRunner
- #GitHubRunner #Ubuntu #Java #maven #Docker
+ #GitHubRunner #Ubuntu #Java #maven #Docker #Test
